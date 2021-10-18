@@ -1,9 +1,9 @@
 # Combining Diverse Feature Priors
 This repository contains code for reproducing the results of our paper.
 
-Paper:
+Paper: https://arxiv.org/abs/2110.08220
 
-Blog Post:
+Blog Post: http://gradientscience.org/copriors/
 
 
 Important files:
